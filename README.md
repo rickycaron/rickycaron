@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickycaron Rui Zhu
 - 👀 I’m interested in C++, Java, Vue3
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Data Structure and Algorithm, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at 32-0493135018 or kevinricky121@gmail.com
 
