@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rickycaron Rui Zhu
 - 👀 I’m interested in C++, Java, Vue3
-- 🌱 I’m currently learning Data Structure and Algorithm, React
+- 🌱 I’m currently learning React and web design
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at 32-0493135018 or kevinricky121@gmail.com
+- 📫 Reach me at...
 
 <!---
 rickycaron/rickycaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
