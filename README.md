@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rickycaron Rui Zhu
 - 👀 I’m interested in C++, Java, Vue3
-- 🌱 I’m currently learning React and web design
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React 
+- 💞️ I’m looking to collaborate on Web page developer
 - 📫 Reach me at...
 
 <!---
