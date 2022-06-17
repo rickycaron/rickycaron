@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickycaron Rui Zhu
 - 👀 I’m interested in C++, Java, Vue3, Raect
-- 🌱 I’m currently  doing an internship in Ericsson
+- 🌱 I’m just finished an internship from Ericsson
 - 💞️ I’m looking to collaborate on Web page developer
 - 📫 Reach me at...
 
